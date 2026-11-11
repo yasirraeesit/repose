@@ -126,3 +126,4 @@ describe('SmartSpectra Signal Stream & Smoothing Pipeline', () => {
     expect(streamLogs.length).toBe(5);
   });
 });
+
