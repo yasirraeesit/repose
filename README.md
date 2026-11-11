@@ -4,6 +4,12 @@
 [![Platform: Android](https://img.shields.io/badge/Platform-Android-green.svg)](https://developer.android.com)
 [![SDK: Presage SmartSpectra](https://img.shields.io/badge/SDK-Presage%20SmartSpectra%203.4.0-red.svg)](https://smartspectra.presagetech.com/)
 [![DEV Challenge](https://img.shields.io/badge/DEV-presagechallenge-purple.svg)](https://dev.to/challenges/presage)
+[![DEV Challenge](https://img.shields.io/badge/DEV-devchallenge-blueviolet.svg)](https://dev.to/challenges/presage)
+
+> 🏆 **DEV Challenge Entry**: Submitted for the [Presage SmartSpectra SDK Challenge on DEV](https://dev.to/challenges/presage) (`#presagechallenge`, `#devchallenge`).  
+> 🎯 **Target Category**: *Best Thoughtful Real-World Use* (also eligible for *Most Creative or Delightful Use*).  
+> 👤 **Author**: Yasir Raees (Solo, 18+).  
+> 📦 **GitHub Topics**: `presagechallenge`, `devchallenge`, `smartspectra`, `presage-technologies`, `react-native`, `android`, `rppg`, `biometrics`.
 
 **Repose** is a React Native mobile application created for the **Presage SmartSpectra SDK Challenge on DEV** (`#presagechallenge`). 
 

@@ -1,6 +1,29 @@
 {
   "name": "repose",
-  "version": "0.0.1",
+  "version": "1.0.0",
+  "description": "Timers that wait for your body — React Native Android app powered by Presage SmartSpectra SDK live optical vitals",
+  "author": "Yasir Raees",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yasirraeesit/repose.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yasirraeesit/repose/issues"
+  },
+  "homepage": "https://github.com/yasirraeesit/repose#readme",
+  "keywords": [
+    "presagechallenge",
+    "devchallenge",
+    "smartspectra",
+    "presage-technologies",
+    "react-native",
+    "android",
+    "rppg",
+    "biofeedback",
+    "vitals",
+    "settle-gate"
+  ],
   "private": true,
   "scripts": {
     "android": "react-native run-android",
