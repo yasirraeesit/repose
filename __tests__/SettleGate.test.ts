@@ -252,3 +252,4 @@ describe('Baseline Calibrator', () => {
     expect(baseline.sampleCount).toBe(10);
   });
 });
+

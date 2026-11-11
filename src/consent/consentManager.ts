@@ -42,3 +42,4 @@ export async function deleteAllUserData(): Promise<void> {
     console.warn('Failed to execute complete data deletion', err);
   }
 }
+

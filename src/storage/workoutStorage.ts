@@ -41,3 +41,4 @@ export async function clearAllWorkoutHistory(): Promise<void> {
     console.warn('Failed to clear workout history', err);
   }
 }
+

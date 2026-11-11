@@ -150,3 +150,4 @@ export async function clearBaseline(): Promise<void> {
     console.warn('Failed to clear baseline metrics', err);
   }
 }
+

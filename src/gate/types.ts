@@ -55,3 +55,4 @@ export interface SettleGateState {
   /** Whether the gate opened due to safety max timeout fallback */
   isTimedOut: boolean;
 }
+

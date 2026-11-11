@@ -57,3 +57,4 @@ export function getTimeUntilNextAlarm(timeString: string): number {
 
   return next.getTime() - now.getTime();
 }
+

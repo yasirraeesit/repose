@@ -23,3 +23,4 @@ export interface WorkoutSessionRecord {
   averageRecoveryTimeMs: number;
   fastestRecoveryTimeMs: number;
 }
+

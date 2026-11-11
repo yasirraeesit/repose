@@ -33,3 +33,4 @@ describe('Morning Alarm Scheduler', () => {
     expect(loaded.firstTask).toBe('Meditate and drink green tea');
   });
 });
+

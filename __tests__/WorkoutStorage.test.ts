@@ -89,3 +89,4 @@ describe('Workout Storage & History Pipeline', () => {
     expect(list[0].sessionId).toBe('sess_2');
   });
 });
+
