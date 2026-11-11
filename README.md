@@ -124,7 +124,7 @@ Modern mobile operating systems strictly prohibit applications from running the 
 
 ### 1. Clone & Install
 ```bash
-git clone https://github.com/Yasir-Raees/Repose.git
+git clone https://github.com/yasirraeesit/repose.git
 cd Repose
 npm install
 ```

@@ -2,8 +2,8 @@
 title: "Repose: Timers that wait for your body (Calm Alarm & Rest Until Ready)"
 published: true
 tags: devchallenge, presagechallenge, reactnative, android
-cover_image: https://raw.githubusercontent.com/Yasir-Raees/Repose/main/docs/assets/cover.png
-canonical_url: https://dev.to/yasirraees/repose-timers-that-wait-for-your-body
+cover_image: https://raw.githubusercontent.com/yasirraeesit/repose/main/docs/assets/cover.png
+canonical_url: https://dev.to/yasirraeesit/repose-timers-that-wait-for-your-body
 description: "A React Native app using live Presage SmartSpectra signals where timers and alarms cannot finish until your live physiology settles."
 ---
 
@@ -49,7 +49,7 @@ Watch the full 2.5-minute video walkthrough demonstrating the live SmartSpectra 
 
 The complete source code is public and open-source under the MIT License:
 
-👉 **[GitHub: Yasir-Raees/Repose](https://github.com/Yasir-Raees/Repose)**
+👉 **[GitHub: yasirraeesit/repose](https://github.com/yasirraeesit/repose)**
 
 ### Repository Architecture:
 - `/android`: Bare Android native project linking `com.presagetech:smartspectra:3.4.0` via Maven Central.
